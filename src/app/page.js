@@ -6,7 +6,7 @@ import WeddingOpening from "../components/WeddingOpening";
 /* ================================================================
    EDIT EVERYTHING HERE. All text below is placeholder content.
    ================================================================ */
-const COUPLE = { groom: "Aneesh", bride: "Bride" };
+const COUPLE = { groom: "Groom", bride: "Bride" };
  
 const STORY = [
   { year: "2019", title: "How we met", text: "Write a few lines about how the two of you first met." },

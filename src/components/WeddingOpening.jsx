@@ -137,7 +137,7 @@ function Sprig({ className }) {
 const pad = (n) => String(n).padStart(2, "0");
 
 export default function WeddingOpening({
-  groom = "Aneesh",
+  groom = "Groom",
   bride = "Bride",
   dateShort = "12 · 12 · 2026",
   dateLong = "Saturday, 12 December 2026",
